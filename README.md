@@ -47,6 +47,7 @@ My knowledge in Unity and C# enabled me to work with various technologies and la
   - [x] Strapi
 
 </details>
+
 ---
 
 <details>
