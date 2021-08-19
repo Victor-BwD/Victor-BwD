@@ -1,6 +1,6 @@
 ## Hello World! 👋
 <br/>
-My name is Victor Bogdanow Dornelles and i'm an undergraduate student in Digital Games from FACCAT. I've always been passionate about games and technology, in 2016 I decided to make it my profession. I'm focused on Unity3D in my game developments, but I also know other engines. I'm currently working on Kosmos Brasil, a startup responsible for creating virtual events and i play the role of programmer and support the 3D team with my knowledge of Blender.<br>
+My name is Victor Bogdanow Dornelles and i'm an undergraduate student in Digital Games from FACCAT. I've always been passionate about games and technology, in 2016 I decided to make it my profession. I'm focused on Unity3D in my game developments, but I also know other engines. I'm currently working on Kosmos Brasil, a startup responsible for creating virtual events and i play the role of programmer and support the 3D team with my knowledge in Blender.<br>
 My knowledge in Unity and C# enabled me to work with various technologies and languages ​​on the market. My goal is to become a great programmer and artist to make my projects even better!
 <br/>
 <br/>
