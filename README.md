@@ -1,9 +1,7 @@
 ## Hello World! 👋
-<br/>
-My name is Victor Bogdanow Dornelles and i'm an undergraduate student in Digital Games from FACCAT. I've always been passionate about games and technology, in 2016 I decided to make it my profession. I'm focused on Unity3D in my game developments, but I also know other engines.<br>
-My knowledge in Unity and C# enabled me to work with various technologies and languages ​​on the market. My goal is to become a great programmer and artist to make my projects even better!
-<br/>
-<br/>
+
+<p><strong>During day, coder
+<br>& games at night.</p>
 
 ### Curiosities about me
 ❤️	I'm passionate about tech, musics, movies, dogs, cats, games and, of course, my family! <br>
