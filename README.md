@@ -63,6 +63,3 @@
 
 </details>
 <br>
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/victor-bwd)](https://github.com/Victor-BwD)
-
