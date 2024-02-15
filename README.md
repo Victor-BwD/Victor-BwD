@@ -25,20 +25,20 @@
 
 - 📕 Languages:
   - [x] C#
-  - [x] Phyton
-  - [x] Html
-  - [x] CSS
-  - [x] JavaScript
+  - [x] Html & CSS
   - [x] TypeScript
+  - [x] Java
+  - [x] C  
 
 
 - 📙  Engines and FrameWorks:
   - [x] Unity3D
-  - [x] Construct
   - [x] Godot
   - [x] BabylonJS
   - [x] ChakraUI
-  - [x] Bootstrap
+  - [x] ReactJS
+  - [x] Express.js  
+
 
 - 📘 Others:
   - [x] Blender
