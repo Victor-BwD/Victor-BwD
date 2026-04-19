@@ -21,3 +21,13 @@ I also work on game development projects using Unity and Godot, where I explore 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorbwd/)](https://www.linkedin.com/in/victorbwd/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/victor_bwd/)](https://www.instagram.com/victor_bwd/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorbd.business@gmail.com)](mailto:victorbd.business@gmail.com)
+
+---
+
+## Tech Stack
+- Go
+- Java
+- Kafka
+- Docker
+- REST / WebSockets
+- C#
