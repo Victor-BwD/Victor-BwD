@@ -1,7 +1,14 @@
 ## Hello World! 👋
 
-<p><strong>During day, coder
-<br>& games at night.</p>
+<strong> Back-end Engineer at Casas Bahia | Java & Go </strong>
+
+I build scalable microservices and event-driven systems using Kafka, focusing on performance, concurrency, and real-world logistics challenges.
+
+Experienced in designing reliable APIs and handling high-throughput production environments.
+
+Always improving as an engineer and driven by clean architecture.
+
+I also work on game development projects using Unity and Godot, where I explore performance, real-time systems, and interactive experiences.
 
 ### Curiosities about me
 ❤️	I'm passionate about tech, musics, movies, dogs, cats, games and, of course, my family! <br>
@@ -12,55 +19,5 @@
 ## 📲 Find Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorbwd/)](https://www.linkedin.com/in/victorbwd/)
-[![Linkedin Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/victor_bwd/)](https://www.instagram.com/victor_bwd/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/victor_bwd/)](https://www.instagram.com/victor_bwd/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorbd.business@gmail.com)](mailto:victorbd.business@gmail.com)
-
-
----
-<details>
-<summary>📕  Knowledge</summary>
-
-
-## 💻 What Do I Use Most
-
-- 📕 Languages:
-  - [x] C#
-  - [x] Html & CSS
-  - [x] TypeScript
-  - [x] Java
-  - [x] C  
-
-
-- 📙  Engines and FrameWorks:
-  - [x] Unity3D
-  - [x] Godot
-  - [x] BabylonJS
-  - [x] ChakraUI
-  - [x] ReactJS
-  - [x] Express.js
-  - [x] NestJS
-
-
-- 📘 Others:
-  - [x] Blender
-  - [x] GIMP
-  - [x] Aseprite
-  - [x] Strapi
-
-</details>
-
----
-
-<details>
-<summary>⚡  Github Stats</summary>
-
-![victor's github stats](https://github-readme-stats.vercel.app/api?username=victor-BwD&show_icons=true&theme=dark)
-
-<summary>⚡ Languages Used</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-BwD&layout=compact&theme=dark)](https://github.com/Victor-BwD/github-readme-stats)
-<br/>
-
-
-</details>
-<br>
